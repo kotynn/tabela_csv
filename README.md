@@ -1,2 +1,3 @@
-# tabela_csv
-Claro! Aqui está um mini texto com no máximo 300 caracteres:  ---  Script em Python que cria e edita planilhas CSV com dados como nome, idade e cidade. Permite adicionar registros ou buscar nomes existentes. Ideal para gerenciar informações simples diretamente pelo terminal.
+
+Script em Python que cria e edita planilhas CSV com dados como nome, idade e cidade. Permite adicionar registros ou buscar nomes existentes. Ideal para gerenciar informações simples diretamente pelo terminal.
+ 
