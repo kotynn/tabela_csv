@@ -1,3 +1,6 @@
+#Rafael_Koti. Matheus_rover. Nicolas_Vanzo
+
+
 import csv, os
 
 print('''
@@ -96,3 +99,4 @@ match tabela:                                ################criar a tabela#####
 
 
         
+
